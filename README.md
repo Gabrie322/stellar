@@ -22,3 +22,4 @@ Visit [documentation](https://stellar-theme.netlify.app/en/introduction/) to get
 ## License
 
 MIT
+
